@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This is my website, there are many like it...</title>
+    <link>http://example.org/</link>
+    <description>Recent content on This is my website, there are many like it...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2019 16:28:12 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://example.org/post/second-post/</link>
+      <pubDate>Sat, 20 Apr 2019 16:28:12 -0400</pubDate>
+      
+      <guid>http://example.org/post/second-post/</guid>
+      <description>Here is a link to my about page. if you want to see what I can do check this out My stuff?</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 20 Apr 2019 16:26:23 -0400</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>I like my kids! they love to play with their friends.
+I am a data nerd. I will be amazing at something soon! Check it! Here is my first shiny app Liquor Store Prices Click to price your booze!!</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.org/post/hello-world/</link>
+      <pubDate>Sat, 20 Apr 2019 16:16:51 -0400</pubDate>
+      
+      <guid>http://example.org/post/hello-world/</guid>
+      <description>Hello Everyone Here is my first post onto my website. I can do some stuff like $ y=mx+b$
+$$ /Sigma_0^inf</description>
+    </item>
+    
+  </channel>
+</rss>
